@@ -1,0 +1,20 @@
+91_06.amc -> 136 * 24= 3264
+35_01.amc -> 358+406 = 764
+
+perbandingan komposisi frame 76/23
+
+motor 1
+walking 1
+
+motor 1
+walking 0.8
+
+motor 1
+walking 0.6
+
+motor 1
+walking 0.4
+
+motor 1
+walking 0.2
+

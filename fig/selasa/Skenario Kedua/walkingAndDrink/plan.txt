@@ -1,0 +1,28 @@
+79_38.amc -> 541* 3 = 1623
+35_01.amc -> 358*2+406*2 = 1528
+
+perbandingan komposisi frame 51/49
+drink 1
+walking 1
+
+drink 1
+walking 0.06
+
+drink 1
+walking 0.02
+
+drink 1
+walking 0.2
+
+drink 1
+walking 0.6
+
+            "data/CMU/drinkingWater/79_38.amc",
+            "data/35_01.amc",
+            "data/35_02.amc",
+            "data/CMU/drinkingWater/79_38.amc",
+            "data/35_01.amc",
+            "data/35_02.amc",
+            "data/CMU/drinkingWater/79_38.amc",
+            "data/35_01.amc"
+

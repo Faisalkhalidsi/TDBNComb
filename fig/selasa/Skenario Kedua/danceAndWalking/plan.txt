@@ -1,0 +1,26 @@
+05_10.amc -> 817 * 4 = 3268
+35_01.amc -> 358+406 = 764
+
+perbandingan komposisi frame 81/29
+
+laugh 1
+walking 1
+
+laugh 1
+walking 0.06
+
+laugh 1
+walking 0.02
+
+laugh 1
+walking 0.2
+
+laugh 1
+walking 0.6
+
+//            "data/05_10.amc",
+//            "data/05_10.amc",
+//            "data/35_01.amc",
+//            "data/05_10.amc",
+//            "data/05_10.amc",
+//            "data/35_02.amc"

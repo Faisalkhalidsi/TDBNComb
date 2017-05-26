@@ -1,0 +1,11 @@
+//walk and motorcycle
+            "data/CMU/motorcycle/91_06.amc",
+            "data/CMU/motorcycle/91_06.amc",
+            "data/35_02.amc",
+            "data/CMU/motorcycle/91_06.amc",
+            "data/CMU/motorcycle/91_06.amc",
+            "data/35_01.amc",
+            "data/CMU/motorcycle/91_06.amc",
+            "data/CMU/motorcycle/91_06.amc",
+            "data/35_01.amc",
+            "data/35_02.amc"
