@@ -1,10 +1,7 @@
-This code implements a Temporal Deep Belief Net.
-For detail see http://jmlr.csail.mit.edu/proceedings/papers/v20/sukhbaatar11/sukhbaatar11.pdf
+This code implements a Temporal Deep Belief Net for Combine Motion.
 
-To run a program, you need eclipse and java.
+To run a program, you need java.
 
 Feel free to use this code for educational purposes.
 Motion data files are acquired from CMU motion database.
 core.jar is a library from Processing (www.processing.org).
-
-Author: Sainbayar Sukhbaatar (sainaa@sat.t.u-tokyo.ac.jp)
